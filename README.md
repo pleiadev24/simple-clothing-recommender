@@ -8,7 +8,6 @@ In this project, we are building a clothing retail recommender system using Pyth
 In this section, we load the data from the "Fashion_Retail_Sales.csv" file into a Pandas DataFrame and display the initial rows to inspect the dataset's structure.
 
 
-### 1. Load data
 ```python
 import pandas as pd
 
@@ -17,3 +16,4 @@ df = pd.read_csv("Fashion_Retail_Sales.csv")
 
 # Display the first few rows of the DataFrame to understand the structure of the data
 print(df.head())
+
