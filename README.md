@@ -5,6 +5,9 @@ In this project, we are building a clothing retail recommender system using Pyth
 
 ## Code Description
 
+In this section, we load the data from the "Fashion_Retail_Sales.csv" file into a Pandas DataFrame and display the initial rows to inspect the dataset's structure.
+
+
 ### 1. Load data
 ```python
 import pandas as pd
