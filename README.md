@@ -1,4 +1,5 @@
 
+:shirt: :womans_hat:
 # Clothing Retail Recommender System
 
 This is a Clothing retail recommender system using Python and Pandas. The goal is to provide recommendations for clothing items based on customer review ratings. We are using a dataset loaded from a CSV file (from kaggle) containing information about items purchased and their corresponding review ratings.
